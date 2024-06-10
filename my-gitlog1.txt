@@ -1,0 +1,4 @@
+73d3ff8 Merge branch 'branch2'
+979b100 Modified new_file.txt on main
+47b2c5f Modified new_file.txt on branch2
+9995d9d Add new_file.txt
